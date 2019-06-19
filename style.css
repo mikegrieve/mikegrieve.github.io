@@ -1,0 +1,16 @@
+#name {
+    font-family: 'Bad Script', cursive;
+    font-size: 45px;
+}
+
+#about-img {
+    width: 300px;
+    border-radius: 5px;
+}
+
+.column {
+    margin: 20px;
+}
+
+#about-text {
+}
